@@ -1,1 +1,1 @@
-# 9-6-exercise
+# https://danieltur.github.io/9-6-exercise/
